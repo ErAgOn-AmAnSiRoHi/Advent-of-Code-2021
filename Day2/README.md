@@ -28,11 +28,9 @@ Your horizontal position and depth both start at 0. The steps above would then m
  ```down 8``` adds ``8`` to your depth, resulting in a value of ``10``.  
  ```forward 2``` adds ``2`` to your horizontal position, a total of ``15``.  
 
-After following these instructions, you would have a horizontal position of 15 and a depth of 10. (Multiplying these together produces 150.)
+After following these instructions, you would have a horizontal position of ``15`` and a depth of ``10``. (Multiplying these together produces ``150.``)
 
-Calculate the horizontal position and depth you would have after following the planned course. What do you get if you multiply your final horizontal position by your final depth?
-
-Your puzzle answer was 1762050.
+Calculate the horizontal position and depth you would have after following the planned course. **What do you get if you multiply your final horizontal position by your final depth?**
 
 ### --- Part Two ---
 Based on your calculations, the planned course doesn't seem to make any sense. You find the submarine manual and discover that the process is actually slightly more complicated.
