@@ -6,7 +6,7 @@ def NumberofIncreases(data):
     return increases
 
 
-with open("inputday1.txt") as f:  <!-- Here, we all get seperate puzzle inputs. So, we can either input them directly in our code using (''' ''') or we can create a .txt file -->
+with open("inputday1.txt") as f:
     one = [int(x) for x in f.read().split()]
 
 print(NumberofIncreases(one))
