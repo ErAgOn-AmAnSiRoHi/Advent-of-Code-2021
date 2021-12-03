@@ -84,3 +84,5 @@ Consider sums of a three-measurement sliding window. How many sums are larger th
 ```js
    // Code for coloring
 ```
+
+**Colored Code Example, JavaScript:**
