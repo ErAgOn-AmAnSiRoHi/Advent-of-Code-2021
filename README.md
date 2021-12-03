@@ -5,6 +5,6 @@ Advent of Code is a registered trademark in the United States.
 Head over to [Advent of Code 2021](https://adventofcode.com/2021).
 
 
-##### I am **Aman Sirohi** a former student pursuing *B.Tech in Computer Science Engineering with specialization in Artificial Intelligence.*
+##### I am Aman Sirohi a former student pursuing *B.Tech in Computer Science Engineering with specialization in Artificial Intelligence.*
 I will give a walkthrough and provide all the files for **AOC-2021 (25 Days Challenge).**
 I have used *Python* but one can always go with other languages. What matters the most is the **Logic**
