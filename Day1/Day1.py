@@ -9,10 +9,10 @@ def NumberofIncreases(data):
 with open("inputday1.txt") as f:
     one = [int(x) for x in f.read().split()]
 
-print(NumberofIncreases(one))
+print("PART 1", NumberofIncreases(one))
 
 three = []
 for i in range(2, len(one)):
     three.append(one[i] + one[i - 1] + one[i - 2])
 
-print(NumberofIncreases(three))
+print("PART 2", NumberofIncreases(three))
