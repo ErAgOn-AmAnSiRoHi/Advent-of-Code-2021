@@ -21,7 +21,7 @@ for b in range(0, len(data[0])):
 
 g = int(gamma, 2)
 e = int(epsilon, 2)
-print(g * e)
+print("PART 1", g * e)
 
 gamma = ""
 epsilon = ""
@@ -70,4 +70,4 @@ while len(data) > 1:
     index += 1
 
 co2 = int(data[0], 2)
-print(oxygen * co2)
+print("PART 2", oxygen * co2)
