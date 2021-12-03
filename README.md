@@ -8,4 +8,4 @@ Advent of Code is a registered trademark in the United States.
 
 ##### I am Aman Sirohi a former student pursuing *B.Tech in Computer Science Engineering with specialization in Artificial Intelligence.*
 I will give a walkthrough and provide all the files for **AOC-2021 (25 Days Challenge).**
-I have used *Python* but one can always go with other languages. What matters the most is the **Logic**
+> I have used ***Python*** but one can always go with other languages. What matters the most is the **Logic**
