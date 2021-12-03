@@ -3,7 +3,7 @@ Advent of Code is an Advent calendar of small programming puzzles for a variety 
 Advent of Code is a registered trademark in the United States.
 
 > Head over to [Advent of Code 2021](https://adventofcode.com/2021).  
-  You can Signup using Google, Twitter, Reddit or Github Account.
+  You can Signup using Google, Twitter, Reddit or GitHub Account.
 
 
 ##### I am Aman Sirohi a former student pursuing *B.Tech in Computer Science Engineering with specialization in Artificial Intelligence.*
