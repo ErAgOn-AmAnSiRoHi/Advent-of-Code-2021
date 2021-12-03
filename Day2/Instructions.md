@@ -1,7 +1,7 @@
 
 ## Here, we all get seperate puzzle inputs.
 ## So, we can either input them directly in our code using triple quotation marks (""" """) or we can create a .txt file.
-## I have created a .txt file with the name "inputday2.txt".
+## I have created a .txt file with the name "inputday2.txt". Although I have added the input file as well, but it is only for reference. It would be different for everyone.
 
 ### Now moving ahead towards the Code
 ### I have seperated both the parts for convience although they can be implemented all together without any doubt.
